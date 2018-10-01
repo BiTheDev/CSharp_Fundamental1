@@ -1,0 +1,10 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/obj/Debug/netcoreapp2.0/Fundamental1.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/obj/Debug/netcoreapp2.0/Fundamental1.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/obj/Debug/netcoreapp2.0/Fundamental1.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/bin/Debug/netcoreapp2.0/Fundamental1.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/bin/Debug/netcoreapp2.0/Fundamental1.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/bin/Debug/netcoreapp2.0/Fundamental1.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/bin/Debug/netcoreapp2.0/Fundamental1.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/bin/Debug/netcoreapp2.0/Fundamental1.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/obj/Debug/netcoreapp2.0/Fundamental1.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Fundamental1/obj/Debug/netcoreapp2.0/Fundamental1.pdb
